@@ -1,5 +1,0 @@
-Dosa|South Indian|Rice, Urad dal, Salt|Ferment batter, cook on tava|5|Crispy breakfast|25|Medium|Low calories|Breakfast
-Idli|South Indian|Rice, Urad dal, Salt|Steam fermented batter|5|Soft and healthy|20|Easy|Low calories|Breakfast
-Sambar|South Indian|Lentils, Tamarind, Vegetables|Cook lentils and veggies in tamarind gravy|5|Spicy soup|35|Medium|High protein|Lunch
-Vada|South Indian|Urad dal, Spices|Make batter, fry doughnut-shaped vadas|4|Crunchy snack|20|Easy|Medium calories|Snack
-Rasam|South Indian|Tamarind, Tomato, Spices|Boil tamarind and tomato with spices|4|Tangy soup|15|Easy|Low calories|Soup

@@ -1,5 +1,0 @@
-Puran Poli|Maharashtrian|Chana dal, Jaggery, Wheat flour|Cook dal, mix with jaggery, roll in dough, cook on tava|5|Sweet traditional recipe|60|Medium|High calories|Festive
-Vada Pav|Maharashtrian|Potatoes, Bun, Spices|Boil potatoes, mash, fry patties, serve in bun|4|Street food favorite|30|Easy|Medium calories|Snack
-Poha|Maharashtrian|Flattened rice, Onion, Mustard seeds|Soak poha, temper with spices, cook with onion|4|Quick breakfast|15|Easy|Low calories|Breakfast
-Misal Pav|Maharashtrian|Sprouts, Onion, Pav, Spices|Cook sprouts curry, serve with pav|5|Spicy and tasty|45|Medium|High protein|Lunch
-Bhakri|Maharashtrian|Jowar flour, Water|Mix flour and water, roll and cook on tava|5|Staple flatbread|20|Easy|Low calories|Staple

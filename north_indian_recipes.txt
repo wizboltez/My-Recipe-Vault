@@ -1,5 +1,0 @@
-Rajma|North Indian|Kidney beans, Onion, Tomato, Spices|Cook kidney beans with onion-tomato gravy|5|Comfort food|50|Medium|High protein|Lunch
-Dal Makhani|North Indian|Black lentils, Butter, Cream|Cook lentils slowly with butter|5|Rich and creamy|60|Medium|High calories|Dinner
-Paratha|North Indian|Wheat flour, Ghee|Roll dough and cook with ghee|4|Staple breakfast|20|Easy|Medium calories|Breakfast
-Aloo Gobi|North Indian|Potatoes, Cauliflower, Spices|Cook veggies with spices|4|Vegetarian main dish|35|Easy|Low calories|Lunch
-Kheer|North Indian|Rice, Milk, Sugar|Cook rice in milk with sugar and cardamom|5|Dessert|45|Easy|High calories|Dessert

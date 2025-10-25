@@ -1,5 +1,0 @@
-Fried Rice|Chinese|Rice, Vegetables, Soy sauce|Stir fry rice with vegetables and sauce|5|Quick meal|20|Easy|Medium calories|Lunch
-Manchurian|Chinese|Vegetables, Flour, Soy sauce|Fry veggie balls, cook in sauce|4|Spicy appetizer|30|Medium|High calories|Snack
-Spring Roll|Chinese|Vegetables, Wrapper, Sauce|Roll veggies in wrapper and fry|4|Starter|25|Medium|Medium calories|Snack
-Hot and Sour Soup|Chinese|Vegetables, Tofu, Spices|Cook soup with spices|5|Tangy soup|15|Easy|Low calories|Soup
-Kung Pao Chicken|Chinese|Chicken, Peanuts, Chili|Stir fry chicken with peanuts and chili|5|Spicy main dish|30|Medium|High protein|Dinner
