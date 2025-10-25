@@ -9,7 +9,7 @@ A personal recipe management application built to store, organize, and access yo
 - [Installation](#installation)  
 - [Usage](#usage)  
 - [Contributing](#contributing)  
-- [License](#author)  
+- [Author](#author)  
 
 ## About the Project
 **My Recipe Vault** is a simple yet efficient application for storing and managing recipes. Users can add new recipes, view existing recipes, and organize them based on categories like cuisine, meal type, or ingredients. This project is built as a part of **OOP course (SEM 3)**, focusing on **class-object relationships, constructors, and data management**.  
