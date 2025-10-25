@@ -1,0 +1,5 @@
+Pasta|Italian|Pasta, Tomato sauce, Cheese|Boil pasta, add sauce and cheese|5|Quick dinner|20|Easy|Medium calories|Dinner
+Pizza|Italian|Flour, Cheese, Tomato sauce|Prepare dough, add toppings, bake|5|Favorite snack|30|Medium|High calories|Snack
+Lasagna|Italian|Pasta sheets, Cheese, Tomato sauce|Layer pasta and bake with cheese|4|Hearty meal|60|Medium|High calories|Dinner
+Risotto|Italian|Rice, Cheese, Vegetables|Cook rice slowly with stock|4|Creamy main dish|40|Medium|Medium calories|Lunch
+Tiramisu|Italian|Mascarpone, Coffee, Cocoa|Layer ingredients and chill|5|Dessert|30|Easy|High calories|Dessert

@@ -1,0 +1,5 @@
+Chole|Punjabi|Chickpeas, Onion, Tomato, Spices|Cook chickpeas with gravy|5|Spicy curry|50|Medium|High protein|Lunch
+Paneer Butter Masala|Punjabi|Paneer, Butter, Tomato, Cream|Cook paneer in buttery tomato gravy|5|Rich and creamy|40|Medium|High calories|Dinner
+Aloo Paratha|Punjabi|Wheat flour, Potato, Spices|Stuff potato in dough, roll and cook|4|Breakfast favorite|30|Easy|Medium calories|Breakfast
+Sarson da Saag|Punjabi|Mustard greens, Spices|Cook greens, temper and serve|5|Traditional winter dish|60|Medium|Low calories|Lunch
+Lassi|Punjabi|Yogurt, Sugar, Cardamom|Blend yogurt with sugar and cardamom|4|Refreshing drink|10|Easy|Low calories|Beverage
