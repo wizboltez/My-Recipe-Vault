@@ -21,15 +21,15 @@ A personal recipe management application built to store, organize, and access yo
 - Persistent data storage (if implemented).  
 
 ## Technologies Used
-- **Programming Language:** C++  
+- **Programming Language:** java  
 - **Concepts:** Object-Oriented Programming, Linked Lists, File Handling (if implemented)  
-- **Development Tools:** Any C++ IDE or Compiler  
+- **Development Tools:** Any java IDE or Compiler  
 
 ## Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/wizboltez/My-Recipe-Vault.git
-2. Open the project in your preferred C++ IDE (e.g., Code::Blocks, Visual Studio).
+2. Open the project in your preferred Java IDE (e.g., Code::Blocks, Visual Studio).
 
 3. Build and run the project.
 
